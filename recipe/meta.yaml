@@ -1,4 +1,4 @@
-{% set version = "1.6.3" %}
+{% set version = "1.6.4" %}
 
 package:
   name: nomino
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/yaa110/nomino/archive/{{ version }}.tar.gz
-  sha256: 4868795b6c8a1133ee1c3b19f7a32e0fb0d0a0919b07ccadc4fa1f7526acc86f
+  sha256: e83d9a62163f9faaff4c6650284de3dbe92e546ac09e3717c0bb9cde8352d005
 
 build:
   number: 0
